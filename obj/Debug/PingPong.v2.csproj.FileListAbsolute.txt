@@ -1,0 +1,7 @@
+F:\LevelUP\PingPong.v2\bin\Debug\PingPong.v2.exe.config
+F:\LevelUP\PingPong.v2\bin\Debug\PingPong.v2.exe
+F:\LevelUP\PingPong.v2\bin\Debug\PingPong.v2.pdb
+F:\LevelUP\PingPong.v2\obj\Debug\PingPong.v2.csprojAssemblyReference.cache
+F:\LevelUP\PingPong.v2\obj\Debug\PingPong.v2.csproj.CoreCompileInputs.cache
+F:\LevelUP\PingPong.v2\obj\Debug\PingPong.v2.exe
+F:\LevelUP\PingPong.v2\obj\Debug\PingPong.v2.pdb
